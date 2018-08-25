@@ -3,7 +3,10 @@
 
 ### Prof. Alma González & Gustavo Niz
 ### email: alma.gonzalez@fisica.ugto.mx, g.niz@ugto.mx 
+### Repositorio actual del curso https://github.com/CosmoStats/cosmostats2018
 
+(Para sincronizar tu repositorio con el del curso ejecuta:
+git pull https://github.com/CosmoStats/cosmostats2018 master)
 
 ## TEMAS
 
@@ -51,6 +54,7 @@
     Si se presentan en pdf deberán añadirse los scripts o códigos. 
 
 -- 40% Proyecto final 
+
 
 ## Bibliografía
 
