@@ -1,3 +1,8 @@
+# Ejercicios 2
+
+## Entrega Domingo 4 de Noviembre
+
+
 1. Crea una caja en 2d de tamaño 1000 con las siguientes distribuciones
  
     a) puntos en una malla cuadriculada de distancia (10x10 cada retícula)
