@@ -34,4 +34,7 @@ y recuerda escoger un bin adecuado para ver las señales. Utiliza 10 veces el n�
 6. Modifica el tamaño de la caja a 2000 y 3000, manteniendo la densidad constante de puntos con respecto al inciso 1), calcula 
 de nuevo las funciones de correlación para cada estimador del inciso 2) y comparalas.
 
-BONUS. ¿Puedes generar un código que tenga condiciones periódicas en la caja al calcular la función de correlación?
+BONUS 1. ¿Puedes generar un código que tenga condiciones periódicas en la caja al calcular la función de correlación cuando tengas una distancia máxima de interés?
+
+BONUS 2. Trata de paralelizar tu código para usar mejor los procesadores de tu computadora
+
