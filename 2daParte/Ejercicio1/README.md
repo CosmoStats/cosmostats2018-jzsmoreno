@@ -1,3 +1,7 @@
+# Ejercicios 2
+
+## Entrega Jueves 25 de Octubre
+
 1. Código personal que calcule transformada de Fourier de una función f(x)
 
 2. Muestra la transformada de Fourier de una Gaussiana con dispersión s y centrada en x0=0. 
