@@ -6,7 +6,9 @@
   
     c) 1000 puntos sobre un anillo con radio mayor 300 y radio menor 290 
 
-2. Calcula la función de correlación para cada una de las cajas de datos del inciso anterior, usando los estimadores de
+2. Haz un algoritmo que calcule la función de correlación con DD/RR-1 con el mismo número de puntos aleatorios que datos, y comprueba que si usas muestras aleatorias la función de correlación es cero. Cambia el número de puntos y el tamaño de *bin*, y observa qué ocurre.
+
+3. Calcula la función de correlación para cada una de las cajas de datos del inciso anterior, usando los estimadores de
 
     a) Peebles-Hauser
   
@@ -16,9 +18,15 @@
     
     d) Landy-Szalay
 
-3. Integra la función de correlación sobre la distancia para cada estimaor del inciso anterior.
+y recuerda escoger un bin adecuado para ver las señales. Utiliza 10 veces el número de puntos en las muestras aleatorias que con los datos.
 
-4. Modifica el tamaño de la caja a 2000 y 3000, manteniendo la densidad constante de puntos con respecto al inciso 1), calcula 
+4. Observar como cambia la función de correlación con el número de puntos aleatorios.
+    a) Usando 1, 5, 10 y 50 archivos de muestras aleatorias con el mismo número de puntos que los datos
+    b) Usando 1 archivo con 1, 5, 10 y 50 veces el número de puntos que los datos
+
+5. Integra la función de correlación sobre la distancia para cada estimaor del inciso anterior.
+
+6. Modifica el tamaño de la caja a 2000 y 3000, manteniendo la densidad constante de puntos con respecto al inciso 1), calcula 
 de nuevo las funciones de correlación para cada estimador del inciso 2) y comparalas.
 
-5. BONUS. ¿Puedes generar un código que tenga condiciones periódicas en la caja al calcular la función de correlación?
+BONUS. ¿Puedes generar un código que tenga condiciones periódicas en la caja al calcular la función de correlación?
