@@ -1,6 +1,6 @@
 pp# Ejercicios 2
 
-## Entrega Domingo 4 de Noviembre
+## Entrega Jueves 15 de Noviembre
 
 
 1. Crea una caja en 2d de tamaño 1000 con las siguientes distribuciones
