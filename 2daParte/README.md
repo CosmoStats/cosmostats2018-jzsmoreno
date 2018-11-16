@@ -3,6 +3,7 @@
 ## Slides ##
 1. [Motivación: curso corto en cosmología](cosmostats2018/2daParte/Slide/introcosmology.pdf)
 2. [La función de correlación de dos puntos](cosmostats2018/2daParte/Slide/Lecture1.pdf)
+3. [El espectro de potencias](cosmostats2018/2daParte/Slide/Lecture2.pdf)
 
 
 ## Ejercicios ##
