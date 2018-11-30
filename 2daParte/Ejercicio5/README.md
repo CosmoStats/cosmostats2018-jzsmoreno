@@ -4,7 +4,7 @@
 
 1.  De partículas a una malla. Usa la rutina [scipy.interpolate.griddata](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.griddata.html). Recuerda el ejemplo de las notas.
 
-    a) Crea una malla de 100x100, e interpola los datos del anillo y de los multiples anillos a una malla. Grafíca los datos de la malla como gráfica de densidad sobre los puntos originales.
+    a) Crea una malla de 100x100, e interpola los datos del anillo y de los multiples anillos a esta malla. Grafíca los datos de la malla como gráfica de densidad sobre los puntos originales.
     
     b) Calcula la transformada de Fourier de este campo discreto y el espectro de potencias como lo vimos en clase. Gráficalos.
     
